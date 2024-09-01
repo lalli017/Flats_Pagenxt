@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-bg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+    font-family: "Bree Serif";
+
+}
+
+.common-heading {
+    font-size: 25px;
+    color: #f19116;
+    font-family: "Bree Serif";
+}
+
+.home-page-card {
+    background-color: white;
+    text-align: center;
+    padding: 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.button {
+    background-color: #f19116;
+    border-width: 0;
+    border-radius: 5px;
+    color: white;
+    margin: 20px;
+    width: 90px;
+    height: 40px;
+}
+
+.flats-list-bg-container {
+    background-color: #222222;
+}
+
+.card {
+    border-radius: 10px;
+    margin: 12px;
+}
+
+.flats-list-page-card {
+    background-color: white;
+    padding: 8px;
+}
+
+.flats-image-size {
+    height: 180px;
+    width: 80px;
+}
+
+.flats-list-heading {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+}
+
+.flats-list-para {
+    font-size: 13px;
+    font-family: "Bree Serif";
+}
+
+.third-section-flat-card {
+    background-color: #222222;
+    padding: 15px;
+}
+
+.third-section-image-size {
+    height: 250px;
+    width: 100vw;
+}
+
+.para {
+    font-family: "Bree-Serif";
+}
